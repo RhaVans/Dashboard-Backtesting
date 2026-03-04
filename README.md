@@ -17,10 +17,6 @@ An interactive Streamlit dashboard for backtesting a **Moving Average Crossover*
   - Equity Curve — Strategy vs Buy & Hold
   - Drawdown curve
 
-##  Screenshot
-
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-
 ##  Quick Start
 
 ```bash
