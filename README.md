@@ -21,8 +21,8 @@ An interactive Streamlit dashboard for backtesting a **Moving Average Crossover*
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ma-crossover-backtest.git
-cd ma-crossover-backtest
+git clone https://github.com/RhaVans/Dashboard-Backtesting.git
+cd Dashboard-Backtesting
 
 # Install dependencies
 pip install -r requirements.txt
