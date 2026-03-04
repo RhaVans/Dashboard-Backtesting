@@ -1,4 +1,4 @@
-# 📊 Moving Average Crossover — Backtesting Dashboard
+# Moving Average Crossover — Backtesting Dashboard
 
 An interactive Streamlit dashboard for backtesting a **Moving Average Crossover** trading strategy. Compare strategy performance against a passive Buy & Hold benchmark with professional-grade visualizations.
 
@@ -6,7 +6,7 @@ An interactive Streamlit dashboard for backtesting a **Moving Average Crossover*
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Configurable Parameters** — Ticker symbol, date range, Fast/Slow MA periods
 - **Real-Time Data** — Pulls historical prices from Yahoo Finance via `yfinance`
@@ -17,11 +17,11 @@ An interactive Streamlit dashboard for backtesting a **Moving Average Crossover*
   - Equity Curve — Strategy vs Buy & Hold
   - Drawdown curve
 
-## 🖥️ Screenshot
+##  Screenshot
 
 ![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Clone the repo
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.9+
 - streamlit
